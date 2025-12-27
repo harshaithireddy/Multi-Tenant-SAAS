@@ -186,7 +186,7 @@ DB_PASSWORD=postgres
 JWT_SECRET=your_jwt_secret_key
 JWT_EXPIRES_IN=24h
 
-FRONTEND_URL=http://frontend:5173
+FRONTEND_URL=http://frontend:3000
 ````
 
 ### Frontend (`frontend/.env`)
